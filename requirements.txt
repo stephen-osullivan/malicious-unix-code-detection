@@ -4,4 +4,5 @@ pandas
 nltk
 numpy
 scikit-learn
+transformers
 xgboost
